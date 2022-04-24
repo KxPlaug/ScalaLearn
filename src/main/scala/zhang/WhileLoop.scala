@@ -22,6 +22,6 @@ object WhileLoop {
   }
 
   def main(args: Array[String]): Unit = {
-    println(gcdLoop(100,200))
+    println(gcdLoop(100,20))
   }
 }
